@@ -18,5 +18,14 @@
   "bugs": {
     "url": "https://github.com/AndiPraset/ProjekV2/issues"
   },
-  "homepage": "https://github.com/AndiPraset/ProjekV2#readme"
+  "homepage": "https://github.com/AndiPraset/ProjekV2#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "express-jwt": "^6.1.0",
+    "ip": "^1.1.5",
+    "md5": "^2.3.0",
+    "morgan": "^1.10.0",
+    "mysql": "^2.18.1"
+  }
 }
